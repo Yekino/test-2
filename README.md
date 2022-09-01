@@ -1,2 +1,2 @@
-git--token--init a empty repository
+git--token--init an empty repository
 ## WELL DONE！ ^_^
